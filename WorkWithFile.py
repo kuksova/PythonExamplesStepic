@@ -2,7 +2,7 @@
 """
 Created on Fri Feb  2 13:49:52 2018
 
-@author: server1
+@author: Sveta
 """
 
 f = open("test.txt","w")
